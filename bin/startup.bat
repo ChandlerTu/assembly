@@ -1,0 +1,1 @@
+java -classpath %~dp0..\lib\* com.chandlertu.assembly.Assembly
